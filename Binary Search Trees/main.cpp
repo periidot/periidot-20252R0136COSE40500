@@ -1,12 +1,3 @@
-/** 
-  * Assignment 4 for COSE213 Data Structures
-  *
-  * Won-Ki Jeong (wkjeong@korea.ac.kr)
-  *
-  * 2025. 5. 26
-  *
-  */
-  
 #include "LinkedBinaryTree.h"
 #include "SearchTree.h" 
 #include "AVLTree.h"
@@ -24,17 +15,11 @@
  
 using namespace std;
 
-	//ADD will be the 'variable' more like a function, the more accurate terminology. And we want ADD to be a funciton to do complicated
-
 	int ADD(int x = 2, int y = 12, int z = 43){
 
 		int ADDITION = x+y+z;
 
 	}
-
-	
-
-	//now that we created a function called ADD, it can do 2 instructions that does addition and printing.
 
 
 
